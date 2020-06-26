@@ -1,1 +1,10 @@
+fr.afpa.user.registration
 fr.afpa.user.registration.configuration
+fr.afpa.user.registration.constants
+fr.afpa.user.registration.controller
+fr.afpa.user.registration.exception
+fr.afpa.user.registration.model
+fr.afpa.user.registration.repository
+fr.afpa.user.registration.service
+fr.afpa.user.registration.service.impl
+fr.afpa.user.registration.validator
